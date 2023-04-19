@@ -1,2 +1,2 @@
 # Java
-Java programs I created. Just an amalgomation of both projects I created for fun, for practice, or for an assignment. I will try my best to annotate as best I can for anyone else who may be in my position and is trying to learn from other peoples code.
+Java calculator that I made for fun, very simple, just does addition, subtraction, multiplication and division. It runs on the terminial. Documented everything I was doing for anyone who is trying to learn!
